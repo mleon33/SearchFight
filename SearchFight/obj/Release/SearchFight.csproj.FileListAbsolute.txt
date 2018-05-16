@@ -1,0 +1,12 @@
+Z:\Proyectos\Desktop\SearchFight\SearchFight\bin\Release\SearchFight.exe.config
+Z:\Proyectos\Desktop\SearchFight\SearchFight\bin\Release\SearchFight.exe
+Z:\Proyectos\Desktop\SearchFight\SearchFight\bin\Release\SearchFight.pdb
+Z:\Proyectos\Desktop\SearchFight\SearchFight\bin\Release\Newtonsoft.Json.dll
+Z:\Proyectos\Desktop\SearchFight\SearchFight\bin\Release\RestSharp.dll
+Z:\Proyectos\Desktop\SearchFight\SearchFight\bin\Release\Yandex.Direct.dll
+Z:\Proyectos\Desktop\SearchFight\SearchFight\bin\Release\Newtonsoft.Json.xml
+Z:\Proyectos\Desktop\SearchFight\SearchFight\bin\Release\Yandex.Direct.pdb
+Z:\Proyectos\Desktop\SearchFight\SearchFight\obj\Release\SearchFight.csproj.CoreCompileInputs.cache
+Z:\Proyectos\Desktop\SearchFight\SearchFight\obj\Release\SearchFight.csproj.CopyComplete
+Z:\Proyectos\Desktop\SearchFight\SearchFight\obj\Release\SearchFight.exe
+Z:\Proyectos\Desktop\SearchFight\SearchFight\obj\Release\SearchFight.pdb
