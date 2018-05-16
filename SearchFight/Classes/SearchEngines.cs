@@ -1,7 +1,5 @@
 ﻿using Newtonsoft.Json;
-using Newtonsoft.Json.Linq;
 using RestSharp;
-using RestSharp.Authenticators;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -114,6 +112,7 @@ namespace SearchFight.Classes
 
                     if (!bAllIsOK)
                     {
+                        // if something go wrong... read the error and show in the property.
                         var f = (from element in xDoc.Elements("yandexsearch").Elements("response").Elements("error")
                                  select element);
 

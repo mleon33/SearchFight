@@ -14,6 +14,13 @@ namespace SearchFight
     }
     class Program
     {
+        /*---------------------------------------------------------------------------------------------------
+         * Created by: Marco Antonio García León
+         * Country : Perú
+         * Date of build: 2018.05.16-0216hrs
+         * Notes: This is a coding assesstment test for a job.
+         *---------------------------------------------------------------------------------------------------*/
+
         static void Main(string[] args)
         {
             List<Result> lstResults = new List<Result>();
